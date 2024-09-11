@@ -1,0 +1,14 @@
+/Users/bohdan_best/Documents/університет/OOP/ЛР№7/LR_7/bin/Release/net8.0/LR_7
+/Users/bohdan_best/Documents/університет/OOP/ЛР№7/LR_7/bin/Release/net8.0/LR_7.deps.json
+/Users/bohdan_best/Documents/університет/OOP/ЛР№7/LR_7/bin/Release/net8.0/LR_7.runtimeconfig.json
+/Users/bohdan_best/Documents/університет/OOP/ЛР№7/LR_7/bin/Release/net8.0/LR_7.dll
+/Users/bohdan_best/Documents/університет/OOP/ЛР№7/LR_7/bin/Release/net8.0/LR_7.pdb
+/Users/bohdan_best/Documents/університет/OOP/ЛР№7/LR_7/obj/Release/net8.0/LR_7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bohdan_best/Documents/університет/OOP/ЛР№7/LR_7/obj/Release/net8.0/LR_7.AssemblyInfoInputs.cache
+/Users/bohdan_best/Documents/університет/OOP/ЛР№7/LR_7/obj/Release/net8.0/LR_7.AssemblyInfo.cs
+/Users/bohdan_best/Documents/університет/OOP/ЛР№7/LR_7/obj/Release/net8.0/LR_7.csproj.CoreCompileInputs.cache
+/Users/bohdan_best/Documents/університет/OOP/ЛР№7/LR_7/obj/Release/net8.0/LR_7.dll
+/Users/bohdan_best/Documents/університет/OOP/ЛР№7/LR_7/obj/Release/net8.0/refint/LR_7.dll
+/Users/bohdan_best/Documents/університет/OOP/ЛР№7/LR_7/obj/Release/net8.0/LR_7.pdb
+/Users/bohdan_best/Documents/університет/OOP/ЛР№7/LR_7/obj/Release/net8.0/LR_7.genruntimeconfig.cache
+/Users/bohdan_best/Documents/університет/OOP/ЛР№7/LR_7/obj/Release/net8.0/ref/LR_7.dll

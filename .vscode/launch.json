@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "name": "C#: LR_7",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}/LR_7/LR_7.csproj",
+      "launchConfigurationId": "TargetFramework=;LR_7"
+    }
+  ]
+}
